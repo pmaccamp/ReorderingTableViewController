@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = ‘ReorderingTableViewController’
+  s.name     = 'ReorderingTableViewController'
   s.version  = '0.2.11'
   s.license  = 'MIT'
   s.source_files = 'ATSDrag*.{h,m}'
